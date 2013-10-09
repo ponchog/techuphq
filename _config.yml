@@ -17,12 +17,12 @@ description: All tech, all awesome, all the time.
 # Options: amelia, cerulean, cosmo, cyborg, default, flatly, journal, 
 # readable, simplex, slate, spacelab, spruce, superhero, and united.
 
-theme: cerulean
+theme: spacelab
 
 # Set your github and twitter username for user throughout the site.
 
-twitter-username: TechUpHQ
-github-username: TechUpHQ
+twitter-username: ponchog84
+github-username: ponchog
 
 # Do you want to blog on your site? If so, set this to true.
 # Next, you will have to create a new blog entry in the _posts directory.
