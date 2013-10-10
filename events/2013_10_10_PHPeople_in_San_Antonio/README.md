@@ -7,6 +7,7 @@ This folder contains files for the following TechUp HQ event:
 
 
 Presentations
+===
 "Design Patterns in PHP" by Jason Straughan
 https://github.com/GrokInteractive/php_design_patterns_talk
 
